@@ -21,5 +21,6 @@ These contain the basics for getting started, but also the knowledge needed to b
 | [Refactoring Databases: Evolutionary Database Design](<https://databaserefactoring.com/>)                                                           | Book    | Scott Ambler, Pramod Sadalage           |
 | [Release It! Second Edition](https://www.oreilly.com/library/view/release-it-2nd/9781680504552/)|Book|Michael Nygard|
 | [Trunk-Based Development And Branch Abstraction](https://leanpub.com/trunk-based-development)                                                       | Book    | Paul Hammant                            |
-| [Trunk-based Development](https://trunkbaseddevelopment.com/)                                                                                       | Website | Paul Hammant                            |
-
+| [Trunk-based Development](https://trunkbaseddevelopment.com/)                                                                                       | Website | Paul Hammant                            | 
+| [Engineering DevOps: From Chaos to Continuous Improvement ... and Beyond ]                                                                          |Book     | Marc Hornbeek |
+| (https://www.amazon.com/Engineering-DevOps-Continuous-Improvement-Beyond/dp/1543989616/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
